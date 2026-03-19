@@ -25,7 +25,6 @@
 - 👯 Open to collaborating on **impactful tech projects**, **hackathons**, and **open-source contributions**
 - 🤔 Seeking guidance in **System Design**, **Competitive Programming**, and **scalable architectures**
 - 📫 Reach me at: **[atulyachaturvedi254@gmail.com](mailto:atulyachaturvedi254@gmail.com)**
-- ⚡ Fun fact: **I believe consistency beats talent — and I show up every day to prove it.**
 
 ---
 
