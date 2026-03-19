@@ -1,5 +1,6 @@
 <img src="./assets/github-header-banner.png" alt="Profile Banner" width="100%" />
-# Hi there 👋, I'm Atulya
+
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atulya-chaturvedi-8b860a2b1" target="_blank">
@@ -66,15 +67,25 @@
 ---
 
 ## 🚀 Flagship Projects
-![Muse.ai Preview](./assets/muse_ai.png)
+
+<a href="https://github.com/Atulya-arch/muse_ai_frontend">
+  <img src="./assets/muse_ai.png" alt="Muse.ai Preview" width="150" align="left" style="margin-right: 15px;" />
+</a>
+
 ### [Muse.ai](https://github.com/Atulya-arch/muse_ai_frontend)
 > An AI-powered web application designed to generate and enhance creative content. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
-<br>
+<br clear="left"/>
+<br/>
 
-![ZigNote Preview](./assets/zignote-app.png)
+<a href="https://github.com/Atulya-arch/ZigNote">
+  <img src="./assets/zignote-app.png" alt="ZigNote Preview" width="150" align="left" style="margin-right: 15px;" />
+</a>
+
 ### [ZigNote](https://github.com/Atulya-arch/ZigNote)
 > A note-taking application that allows users to create, edit, and organize their notes. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
+
+<br clear="left"/>
 
 ---
 
