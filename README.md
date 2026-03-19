@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/atulyachaturvedi254" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/your-geeksforgeeks/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/profile/atulyachatj5u1" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <!-- Replace the 'i' parameter with the skills you use -->
-  <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,git,docker,aws,linux" alt="Tools & Languages" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,mongodb,mysql,postgres,tailwind,git,docker,aws,linux" alt="Tools & Languages" />
 </p>
 
 <p align="center">
@@ -56,18 +56,18 @@
 
 ## 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=transparent&font=Syne&ext=heatmap" alt="LeetCode Stats" width="48%" />
-  <img src="./gfg-card.svg" alt="GeeksforGeeks Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=transparent&font=Syne" alt="LeetCode Stats" width="48%" />
+  <img src="https://www.geeksforgeeks.org/profile/atulyachatj5u1" alt="GeeksforGeeks Stats" width="48%" />
 </p>
 
 ---
 
 ## 🚀 Flagship Projects
-### [Project 1 Name](https://github.com/Atulya-arch/muse_ai_frontend)
-> Short description of what this project does and the technologies used.
+### [Muse.ai](https://github.com/Atulya-arch/muse_ai_frontend)
+> An AI-powered web application designed to generate and enhance creative content. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
-### [Project 2 Name](https://github.com/Atulya-arch/ZigNote)
-> Short description of what this project does and the technologies used.
+### [ZigNote](https://github.com/Atulya-arch/ZigNote)
+> A note-taking application that allows users to create, edit, and organize their notes. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
 ---
 
