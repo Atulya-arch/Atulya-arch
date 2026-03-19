@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+<img src="./assets/github-header-banner.png" alt="Profile Banner" width="100%" />
 # Hi there 👋, I'm Atulya
 
 <p align="center">
@@ -57,22 +57,22 @@
 
 ## 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=dark&font=Syne" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=dark&font=Syne" alt="LeetCode Stats" height="170" />
   <a href="https://www.geeksforgeeks.org/profile/atulyachatj5u1" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/atulyachatj5u1?theme=dark" alt="GeeksforGeeks Stats" width="48%" />
+    <img src="https://gfgstatscard.vercel.app/atulyachatj5u1?theme=dark" alt="GeeksforGeeks Stats" height="170" />
   </a>
 </p>
 
 ---
 
 ## 🚀 Flagship Projects
-![Muse.ai Preview](./assets/muse_ai.png)
+<img src="./assets/muse_ai.png" alt="Muse.ai Preview" width="100%" />
 ### [Muse.ai](https://github.com/Atulya-arch/muse_ai_frontend)
 > An AI-powered web application designed to generate and enhance creative content. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
 <br>
 
-![ZigNote Preview](./assets/zignote-app.png)
+<img src="./assets/zignote-app.png" alt="ZigNote Preview" width="100%" />
 ### [ZigNote](https://github.com/Atulya-arch/ZigNote)
 > A note-taking application that allows users to create, edit, and organize their notes. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
