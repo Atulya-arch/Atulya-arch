@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 # Hi there 👋, I'm Atulya
 
 <p align="center">
@@ -65,9 +66,13 @@
 ---
 
 ## 🚀 Flagship Projects
+![Muse.ai Preview](./assets/muse_ai.png)
 ### [Muse.ai](https://github.com/Atulya-arch/muse_ai_frontend)
 > An AI-powered web application designed to generate and enhance creative content. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
+<br>
+
+![ZigNote Preview](./assets/zignote-app.png)
 ### [ZigNote](https://github.com/Atulya-arch/ZigNote)
 > A note-taking application that allows users to create, edit, and organize their notes. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
 
