@@ -56,9 +56,9 @@
 
 ## 🏆 Competitive Programming
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=transparent&font=Syne" alt="LeetCode Stats" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/atulyachaturvedi254?theme=dark&font=Syne" alt="LeetCode Stats" width="48%" />
   <a href="https://www.geeksforgeeks.org/profile/atulyachatj5u1" target="_blank">
-    <img src="https://gfgstatscard.vercel.app/atulyachatj5u1" alt="GeeksforGeeks Stats" width="48%" />
+    <img src="https://gfgstatscard.vercel.app/atulyachatj5u1?theme=dark" alt="GeeksforGeeks Stats" width="48%" />
   </a>
 </p>
 
