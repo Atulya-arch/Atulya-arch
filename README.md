@@ -72,7 +72,7 @@
 </a>
 
 ### [Muse.ai](https://github.com/Atulya-arch/muse_ai_frontend)
-> An AI-powered web application designed to generate and enhance creative content. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
+> An AI-powered web application designed to generate and enhance creative content.
 
 <br clear="left"/>
 <br/>
@@ -82,7 +82,7 @@
 </a>
 
 ### [ZigNote](https://github.com/Atulya-arch/ZigNote)
-> A note-taking application that allows users to create, edit, and organize their notes. Built using modern frontend technologies with a focus on user-friendly UI and seamless interaction with AI-driven features.
+> A note-taking application that allows users to create, edit, and organize their notes. 
 
 <br clear="left"/>
 
