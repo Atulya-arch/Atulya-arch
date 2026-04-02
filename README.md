@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulya-arch&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulya-arch&layout=compact&theme=default&hide_border=true" />
 </p>
 
 ---
